@@ -1,23 +1,9 @@
-### Hi there 👋
+## 👋 Hi, I'm Bachan Nigam!
 
-I am a Computer Science Engineer, and deeply passionate to understand the science of data.
-Trying to connect the dots between finance and data science....
+I'm a passionate Data Engineer specializing in Azure services with a keen interest in the financial domain. Currently, I'm exploring:
 
-I am currently learning about the financial planning and finance data analysis using Machine Learning and tools like PowerBI and Tableau.
-
-
-
-<!--
-**bachan007/bachan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Financial data analysis using the yfinance API
+🚀 Developing advanced projects with LangChain, including RAG systems and local chat with Ollama models
+🤖 Integrating Hugging Face models and GenAI into various applications
+💻 Experimenting with Gemini API and OpenAI API for innovative solutions
+Check out my repositories for my latest work and contributions!
